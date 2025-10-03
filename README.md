@@ -1,0 +1,2 @@
+# Maslalar
+Maslalar yechimi
