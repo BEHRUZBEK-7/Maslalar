@@ -9,4 +9,4 @@
 # ism = input("ismingizni kiriting: ")
 # sharif = input("sharifingizni kiriting: ")
 #
-# print(f"F.I.SH.{familiya,ism,sharif}")
+# print(f"F.I.SH.{familiya} {ism} {sharif}")
