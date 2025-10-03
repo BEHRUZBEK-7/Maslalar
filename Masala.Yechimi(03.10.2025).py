@@ -9,4 +9,4 @@ familiya = input("familyangizni kiriting: ")
 ism = input("ismingizni kiriting: ")
 sharif = input("sharifingizni kiriting: ")
 
-print(f"F.I.SH:{familiya} {ism} {sharif}".title())
+print(f"F.I.SH: {familiya} {ism} {sharif}".title())
